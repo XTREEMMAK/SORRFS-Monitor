@@ -17,7 +17,7 @@ This monitor should fix all the above.
 </p>
 <h2>Instructions:</h2>
 <ol>
-<li>Extract the files to the Streets of Rage Remake root folder (where you have Streets of Rage Remake installed)</li>
+<li>Extract the files to the Streets of Rage Remake root folder (where you have Streets of Rage Remake installed. DO NOT PUT IN A SUBFOLDER)</li>
 <li>IF you are using a high resolution monitor and you are using zoom above 100% on your display:
   <ol>
   <li>Right click on "SorRFS.exe"</li>
