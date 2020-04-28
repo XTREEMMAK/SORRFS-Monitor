@@ -19,12 +19,14 @@ This monitor should fix all the above.
 <ol>
 <li>Extract the files to the Streets of Rage Remake root folder (where you have Streets of Rage Remake installed)</li>
 <li>IF you are using a high resolution monitor and you are using zoom above 100% on your display:
+  <ol>
   <li>Right click on "SorRFS.exe"</li>
   <li>Choose Properties</li>
   <li>Choose Compatibility</li>
   <li>Choose "Change high DPI Settings</li>
   <li>Check "Use this setting to fix scaling", select "When I open the program" in the next box, then finally set Overide to "Application" </li>
   <li>Click Ok to save changes</li>
+  </ol>
 </li>
 <li>Run the "sorrfs_mon.bat" file instead of the native excutable</li>
 
