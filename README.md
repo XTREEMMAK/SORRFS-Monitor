@@ -1,6 +1,6 @@
 <h2>About:</h2>
 There's an application written by a user named mashakos (https://www.youtube.com/user/mashakos1) that makes Streets of Rage Remake - v5.1 fullscreen. The initial problem with SORR is that it was originally programmed for fullscreen at a max of 800x600 resolution and development of the game has long since ended. 
-
+<br>
 The information about that app and how to get it can be found here, but has been included as part of this repo:
 https://www.reddit.com/r/emulation/comments/ax7rzz/techincally_not_emulation_but_i_know_a_lot_of/ 
 
@@ -16,7 +16,7 @@ This monitor should fix all the above.
 <h2>Instructions:</h2>
 <ol>
 <li>Extract the files to the Streets of Rage Remake root folder (where you have Streets of Rage Remake installed)</li>
-<li>2. Run the "sorrfs_mon.bat" file instead of the native excutable</li>
+<li>Run the "sorrfs_mon.bat" file instead of the native excutable</li>
 </ol>
 
 That's it.
