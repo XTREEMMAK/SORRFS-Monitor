@@ -1,6 +1,6 @@
 <h2>About:</h2>
-There's an application written by a user named mashakos (https://www.youtube.com/user/mashakos1) that makes Streets of Rage Remake - v5.1 fullscreen. The initial problem with SORR is that it was originally programmed for fullscreen at a max of 800x600 resolution and development of the game has long since ended. 
-<br>
+<p>There's an application written by a user named mashakos (https://www.youtube.com/user/mashakos1) that makes Streets of Rage Remake - v5.1 fullscreen. The initial problem with SORR is that it was originally programmed for fullscreen at a max of 800x600 resolution and development of the game has long since ended. 
+</p>
 The information about that app and how to get it can be found here, but has been included as part of this repo:
 https://www.reddit.com/r/emulation/comments/ax7rzz/techincally_not_emulation_but_i_know_a_lot_of/ 
 
